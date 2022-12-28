@@ -9,7 +9,7 @@
 - 💞️ I’m looking to collaborate on open source projects!...
 - 📫 How to reach me: ebbyrandall@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwrand)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwrand&show_icons=true))
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwrand)](https://github.com/anuraghazra/github-readme-stats)
 
