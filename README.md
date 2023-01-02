@@ -1,7 +1,7 @@
 # Hi, I am @edwrand
 
 ## About me
-- My name is Ed. I live in the US and am excited to learn about working on open source projects. Outside of coding I enjoy philosphy, fitness, entrepreneurship, and investing!
+- My name is Ed. I live in the US and am excited to learn about working on open source projects. Outside of coding I enjoy philosphy, fitness, entrepreneurship, and investing! Contact me if you need startup funding!
 
 ## About my interests
 - 👀 I’m interested in AI, blockchain, and entrepreneurship...
