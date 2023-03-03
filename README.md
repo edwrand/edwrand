@@ -11,8 +11,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwrand&show_icons=true&theme=radical)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=edwrand&layout=compact"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwrand&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
+[![edwrand's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edwrand)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 edwrand/edwrand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
