@@ -11,11 +11,11 @@ My name is Ed. I live in the US and am excited to learn about working on open so
 
 ## Contact me: 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-## ebbyrandall@gmail.com
+- ebbyrandall@gmail.com
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-## edwrand#4238
+- edwrand#4238
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-## @Ebby Randall
+- @Ebby Randall
 <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 ## @edwrand
 
