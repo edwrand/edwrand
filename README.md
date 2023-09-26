@@ -15,8 +15,6 @@ My name is Ed. I live in the US and am excited to learn about working on open so
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />: @Ebby Randall\
 <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />: @edwrand\
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwrand&show_icons=true&theme=transparent)
-
 <!---
 edwrand/edwrand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
