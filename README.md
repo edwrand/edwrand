@@ -9,7 +9,7 @@ My name is Ed. I live in the US and am excited to learn about working on open so
 ## My languages:
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 
-![Metrics](https://metrics.lecoq.io/madushadhanushka?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+![Metrics](https://metrics.lecoq.io/edwrand?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
 <!---
 edwrand/edwrand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
