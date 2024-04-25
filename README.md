@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ed</h1>
-<h3 align="center">My name is Ed. I live in the US and am currently working on building my own SaaS product. Outside of coding I enjoy philosphy, fitness, entrepreneurship, and investing!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwrand&label=Profile%20views&color=0e75b6&style=flat" alt="edwrand" /> </p>
 
-- 🌱 I’m currently learning more Python :)
+- 🌱 I’m currently learning more Python
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
